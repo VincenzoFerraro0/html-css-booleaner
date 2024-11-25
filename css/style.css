@@ -8,3 +8,21 @@
 .logo{
     width: 200px;
 }
+main {
+    padding: 10px;
+}
+
+.gray {
+    color: gray;
+}
+.text-description {
+    font-size: 12px;
+}
+
+.margin {
+    margin-bottom: 25px;
+}
+/* span {
+    color: #4EA0FF;
+} */
+
