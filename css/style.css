@@ -18,11 +18,18 @@ main {
 .text-description {
     font-size: 12px;
 }
-
-.margin {
-    margin-bottom: 25px;
-}
 /* span {
     color: #4EA0FF;
 } */
+.margin {
+    margin-bottom: 25px;
+}
+
+ul {
+    margin-left: 10px;
+}
+
+
+
+
 
