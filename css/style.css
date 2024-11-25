@@ -18,9 +18,9 @@ main {
 .text-description {
     font-size: 12px;
 }
-/* span {
+.blue-text {
     color: #4EA0FF;
-} */
+}
 .margin {
     margin-bottom: 25px;
 }
@@ -29,6 +29,18 @@ ul {
     margin-left: 10px;
 }
 
+table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+}
+
+thead {
+    color: white;
+    background-color: #4EA0FF;
+    
+    
+}
 
 
 
